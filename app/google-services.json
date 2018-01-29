@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "908828119313",
+    "firebase_url": "https://serverless-1c71c.firebaseio.com",
+    "project_id": "serverless-1c71c",
+    "storage_bucket": "serverless-1c71c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908828119313:android:359c9f742de14532",
+        "android_client_info": {
+          "package_name": "json.serverless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908828119313-74v55bglq3qev38nc5m5r19qf2khkidn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "json.serverless",
+            "certificate_hash": "a926fa20699833c69f1dc5bef890babd2d6d1af5"
+          }
+        },
+        {
+          "client_id": "908828119313-dr1ks7n7c31u0cbm93hd5sd7ofm08p77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxOuewNEpE3rb4eceEY__xnRJr9DlqM_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908828119313-dr1ks7n7c31u0cbm93hd5sd7ofm08p77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
