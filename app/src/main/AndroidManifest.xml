@@ -8,14 +8,17 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:name=".JsonApplication"
         android:theme="@style/LoginRegTheme">
-        <activity android:name=".views.LoginRegActivity">
+        <activity android:name=".modules.login.activities.LogInRegActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".views.UserActivity"/>
+        <activity android:name=".views.LoginActivity"/>
     </application>
 
 </manifest>
